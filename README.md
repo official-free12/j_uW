@@ -1,0 +1,6 @@
+# java开发家庭理财管理系统源码ssm（spring+spring mvc+mybatis）
+
+声明：源码来自网络分享，如有侵权到你的权益，联系本店删除，本店所售程序只供测试学习，不得使用于非法用途，不得违反国家法律，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！，因时间有限不会安装的联系我确定时间再购买安装服务，还有需要二开的提前咨询qq:768756548<br>.NET 源码请看下VS开发版本，高了可能不支持。java源码看下开发软件及相关版本<br>example.com，详情咨询QQ<br>GXJ145-java开发家庭理财管理系统源码ssm（spring+springmvc+mybatis）<br>本系统的实现主要是为让家庭成员在计算机上管理记录家庭财产。主要的功能有家庭成员对收入和支出的来源去向的记录与查询，方便成员记录家庭消费情况，及时调整家庭消费状态。同时家庭成员的理财状况也可以详细记录，包括申请的证券账户的管理，对投资的管理，记录投资情况，了解资金动向，避免不必要的投资损失。<br>本系统主要实现家庭理财管理系统的基本功能，包括家庭成员的个人信息和财产状况等，收入和支出状况的记录，所申请证券的信息的记录，投资的金额数目等信息的记录，以及证券的流水账记录，以及所有信息的添加、删除、修改，以及对所需信息的查询。<br>运行环境<br>集成开发工具：Eclipse编译环境：example.com：example.com<br>数据库：example.com<br>项目技术<br>spring+springmvc+mybatis+bootstrap+jquery+example.com.12+example.com.3<br>http://localhost/***/example.com<br>admin123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/WUWKK" style="color: red;">https://mega-file.org/WUWKK</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
